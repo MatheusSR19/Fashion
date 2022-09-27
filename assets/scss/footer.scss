@@ -1,0 +1,26 @@
+footer{
+  background: #007bff;
+  padding: 25px 0;
+  color: $branco;
+
+  a{
+    color: $branco; 
+    &:hover{
+      color: $branco; 
+    }
+  }
+  
+  h4{ 
+    color:#007bff; 
+    font-size: 19px;
+  }
+
+  ul{
+    li.ellipsis{
+      width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+}
