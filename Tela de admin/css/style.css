@@ -1,6 +1,6 @@
 body
 {
-	background:#A5E0D7;
+	background:#f1f5f4;
 }
 
 /*navbar*/
@@ -20,7 +20,7 @@ body
 }
 
 .navbar {
-  background-color: #1067dd;
+  background-color: #007bff;
 }
 .navbar .navbar-brand {
   color: #e3eff2;
@@ -82,13 +82,13 @@ body
 .main-color-bg
 {
 	background-color: #007bff;
-	border-color: #c0392b;
+	border-color: #007bff;
 	color: #ffffff;
 }
 
 #header
 {
-	background:#060606;
+	background:#007bff;
 	color: #ffffff;
 	padding-bottom: 10px;
 	margin-bottom: 15px; 
@@ -121,7 +121,7 @@ body
   }
   .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
     color: #4cb233;
-    background-color: #1067dd;
+    background-color: #03060c;
   }
 }
 
